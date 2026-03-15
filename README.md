@@ -4,6 +4,10 @@ A visual node-based programming environment with LLM integration, featuring a de
 
 ![ThoughtMaker](thoughtmaker-screenshot.png)
 
+*Docked view with expanded module hierarchy*
+
+![ThoughtMaker Docked View](thoughtmaker-docked-view.png)
+
 ## Features
 
 - **Visual Node-Based Interface**: Drag-and-drop modules on a canvas to build workflows
