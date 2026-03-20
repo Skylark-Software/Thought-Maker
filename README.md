@@ -1,6 +1,6 @@
 # ThoughtMaker
 
-A visual node-based programming environment with LLM integration, featuring a decentralized message bus architecture with a PostgreSQL data plane for building AI-powered workflows.
+A visual node-based programming environment for AI workflows, featuring a decentralized message bus architecture with a PostgreSQL data plane.
 
 ![ThoughtMaker](thoughtmaker-screenshot.png)
 
