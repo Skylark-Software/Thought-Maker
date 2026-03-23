@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/thoughtmaker-logo.png" alt="ThoughtMaker" width="400">
+</p>
+
 # ThoughtMaker
 
 A visual node-based programming environment for AI workflows, featuring a decentralized message bus architecture with a PostgreSQL data plane.
@@ -23,3 +27,9 @@ A visual node-based programming environment for AI workflows, featuring a decent
 ---
 
 Copyright 2024 - 2026 Skylark Software LLC. All rights reserved.
+
+---
+
+<p align="center">
+  <img src="docs/skylark-software-logo.svg" alt="Skylark Software" width="200">
+</p>
