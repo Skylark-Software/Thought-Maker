@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/thoughtmaker-logo.png" alt="ThoughtMaker" width="400">
+  <img src="docs/thoughtmaker-logo.png" alt="ThoughtMaker" width="320">
 </p>
 
 # ThoughtMaker
@@ -31,5 +31,5 @@ Copyright 2024 - 2026 Skylark Software LLC. All rights reserved.
 ---
 
 <p align="center">
-  <img src="docs/skylark-software-logo.svg" alt="Skylark Software" width="200">
+  <img src="docs/skylark-software-logo.svg" alt="Skylark Software" width="400">
 </p>
